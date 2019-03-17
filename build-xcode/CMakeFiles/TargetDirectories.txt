@@ -1,4 +1,0 @@
-/Users/dongdong/desktop/test_cmake/build-xcode/CMakeFiles/ALL_BUILD.dir
-/Users/dongdong/desktop/test_cmake/build-xcode/CMakeFiles/ZERO_CHECK.dir
-/Users/dongdong/desktop/test_cmake/build-xcode/geometry/src/CMakeFiles/geometry.dir
-/Users/dongdong/desktop/test_cmake/build-xcode/src/CMakeFiles/tester.dir
