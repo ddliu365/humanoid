@@ -1,0 +1,5 @@
+/Users/dongdong/src/build/CMakeFiles/rebuild_cache.dir
+/Users/dongdong/src/build/CMakeFiles/edit_cache.dir
+/Users/dongdong/src/build/hello-world/CMakeFiles/rebuild_cache.dir
+/Users/dongdong/src/build/hello-world/CMakeFiles/edit_cache.dir
+/Users/dongdong/src/build/hello-world/CMakeFiles/test.dir
